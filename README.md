@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a student in Chongqing Science And Technology Career Academy,I am very happy to communicate with you.
+I am a student in Chongqing Science And Technology Career Academy,This is my code repository, welcome to browse, please star me, thank you!
 <!--
 **JewellGrella/JewellGrella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
